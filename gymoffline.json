@@ -1,0 +1,11 @@
+{
+    "admobBanner": "ca-app-pub-3940256099942544/6300978111",
+    "admobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+    "facebookBanner": "544147530351350_544152797017490",
+    "facebookInterstitial": "544147530351350_544153230350780",
+    "unityGameId": "4243217",
+    "unityTestMode": false,
+    "activeAds": "facebook",
+    "isRandom": false,
+    "interstitialInterval": 1
+}
