@@ -4,7 +4,7 @@
     "facebookBanner": "792453271428386_792455761428137",
     "facebookInterstitial": "792453271428386_792456408094739",
     "unityGameId": "3054608",
-    "unityTestMode": true,
+    "unityTestMode": false,
     "activeAds": "unity",
     "isRandom": false,
     "interstitialInterval": 7
