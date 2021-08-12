@@ -5,7 +5,7 @@
     "facebookInterstitial": "792453271428386_792456408094739",
     "unityGameId": "4259593",
     "unityTestMode": false,
-    "activeAds": "facebook",
+    "activeAds": "admob",
     "isRandom": false,
     "interstitialInterval": 1
 }
