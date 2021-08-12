@@ -7,5 +7,5 @@
     "unityTestMode": false,
     "activeAds": "facebook",
     "isRandom": false,
-    "interstitialInterval": 7
+    "interstitialInterval": 2
 }
