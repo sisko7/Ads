@@ -1,11 +1,11 @@
 {
-    "admobBanner": "ca-app-pub-4504475146808440/7509875381",
+    "admobBanner": "ca-app-pub-3940256099942544/6300978111",
     "admobInterstitial": "ca-app-pub-4504475146808440/9289667397",
     "facebookBanner": "792453271428386_792455761428137",
     "facebookInterstitial": "792453271428386_792456408094739",
     "unityGameId": "4259593",
     "unityTestMode": false,
-    "activeAds": "unity",
+    "activeAds": "admob",
     "isRandom": false,
     "interstitialInterval": 4
 }
