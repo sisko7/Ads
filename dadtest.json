@@ -4,7 +4,7 @@
     "facebookBanner": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
     "facebookInterstitial": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
     "unityGameId": "4259593",
-    "unityTestMode": false,
+    "unityTestMode": true,
     "activeAds": "facebook",
     "isRandom": true,
     "interstitialInterval": 2
