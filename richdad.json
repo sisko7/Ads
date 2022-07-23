@@ -6,12 +6,12 @@
     "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
     "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
     
-     "InterstitialFacebook": "ca-app-pub-3940256099942544/1033173712",
+     "InterstitialFacebook": "257223125624997_3595839700527809",
     "BannerFacebook": "257223125624997_3595839700527809",
     "NativeFacebook": "25722315221997_2649796681798787",
     
     "GameId": "3054608",
     "UnityBanner": "3054608",
-    "testMode": "3054608",
+    "testMode": "true",
    
 }
