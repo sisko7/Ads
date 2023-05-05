@@ -8,6 +8,6 @@
     "unityTestMode": true,
     "activeAds": "admob",
     "isRandom": false,
-    "interstitialInterval":2
+    "interstitialInterval": 2
 
 }
